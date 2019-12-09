@@ -121,7 +121,7 @@
       </trans-unit>
       <trans-unit id="0ee81913615b71aba7dc8bbf1f144672" approved="yes">
         <source>Price, high to low</source>
-        <target state="translated">Precio, de más alto a más bajo</target>
+        <target state="translated">Precio: de más alto a más bajo</target>
         <note>Line: 108</note>
       </trans-unit>
       <trans-unit id="b56ffaa1656269759857ba14573dc144" approved="yes">
